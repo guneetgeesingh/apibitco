@@ -1,0 +1,10 @@
+C:\Users\Gee Singh\Desktop\BitCoINCLLC\bin\Debug\netcoreapp2.0\BitCoINCLLC.deps.json
+C:\Users\Gee Singh\Desktop\BitCoINCLLC\bin\Debug\netcoreapp2.0\BitCoINCLLC.runtimeconfig.json
+C:\Users\Gee Singh\Desktop\BitCoINCLLC\bin\Debug\netcoreapp2.0\BitCoINCLLC.runtimeconfig.dev.json
+C:\Users\Gee Singh\Desktop\BitCoINCLLC\bin\Debug\netcoreapp2.0\BitCoINCLLC.dll
+C:\Users\Gee Singh\Desktop\BitCoINCLLC\bin\Debug\netcoreapp2.0\BitCoINCLLC.pdb
+C:\Users\Gee Singh\Desktop\BitCoINCLLC\obj\Debug\netcoreapp2.0\BitCoINCLLC.csproj.CoreCompileInputs.cache
+C:\Users\Gee Singh\Desktop\BitCoINCLLC\obj\Debug\netcoreapp2.0\BitCoINCLLC.AssemblyInfoInputs.cache
+C:\Users\Gee Singh\Desktop\BitCoINCLLC\obj\Debug\netcoreapp2.0\BitCoINCLLC.AssemblyInfo.cs
+C:\Users\Gee Singh\Desktop\BitCoINCLLC\obj\Debug\netcoreapp2.0\BitCoINCLLC.dll
+C:\Users\Gee Singh\Desktop\BitCoINCLLC\obj\Debug\netcoreapp2.0\BitCoINCLLC.pdb
